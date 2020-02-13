@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VoucherList
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns="http://www.bsu.by"
+        xsi:schemaLocation="http://www.bsu.by vouchers_schema.xsd">
+
+    <travel>
+        <vehicleType>CAR</vehicleType>
+        <duration>ONE_WEEK</duration>
+        <nutritionType>THREE_TIMES</nutritionType>
+        <price>2000</price>
+        <cityToTravel>LA</cityToTravel>
+    </travel>
+
+    <tour>
+        <vehicleType>CAR</vehicleType>
+        <duration>THREE_WEEKS</duration>
+        <nutritionType>FIVE_TIMES</nutritionType>
+        <price>200</price>
+        <placesToVisit>minsk, mazyr, mikashi</placesToVisit>
+    </tour>
+
+    <cruise>
+        <vehicleType>LINEAR</vehicleType>
+        <duration>TWO_MONTHS</duration>
+        <nutritionType>FOUR_TIMES</nutritionType>
+        <price>7000</price>
+        <cabin>123</cabin>
+    </cruise>
+
+    <medication>
+        <vehicleType>BUS</vehicleType>
+        <duration>THREE_WEEKS</duration>
+        <nutritionType>FIVE_TIMES</nutritionType>
+        <price>5000</price>
+        <hospital>Berlin</hospital>
+    </medication>
+
+    <travel>
+        <vehicleType>BUS</vehicleType>
+        <duration>TWO_WEEKS</duration>
+        <nutritionType>FOUR_TIMES</nutritionType>
+        <price>5000</price>
+        <cityToTravel>NY</cityToTravel>
+    </travel>
+</VoucherList>

@@ -1,0 +1,58 @@
+2019-11-01 13:31:12 INFO  Main:17 - Application started
+2019-11-01 13:31:12 INFO  Library:47 - Add books to library...
+2019-11-01 13:31:12 INFO  Book:42 - Create new book: name = Book #0, timeReady = 1116
+2019-11-01 13:31:12 INFO  Book:42 - Create new book: name = Book #1, timeReady = 1853
+2019-11-01 13:31:12 INFO  Book:42 - Create new book: name = Book #2, timeReady = 1975
+2019-11-01 13:31:12 INFO  Book:42 - Create new book: name = Book #3, timeReady = 1169
+2019-11-01 13:31:12 INFO  Book:42 - Create new book: name = Book #4, timeReady = 1780
+2019-11-01 13:31:12 INFO  Library:49 - Add readers to library...
+2019-11-01 13:31:12 INFO  Reader:79 - Create new reader: name = Person #0
+2019-11-01 13:31:12 INFO  Reader:79 - Create new reader: name = Person #1
+2019-11-01 13:31:12 INFO  Reader:79 - Create new reader: name = Person #2
+2019-11-01 13:31:12 INFO  Reader:79 - Create new reader: name = Person #3
+2019-11-01 13:31:12 INFO  Reader:79 - Create new reader: name = Person #4
+2019-11-01 13:31:12 INFO  Reader:79 - Create new reader: name = Person #5
+2019-11-01 13:31:12 INFO  Reader:79 - Create new reader: name = Person #6
+2019-11-01 13:31:12 INFO  Reader:79 - Create new reader: name = Person #7
+2019-11-01 13:31:12 INFO  Reader:79 - Create new reader: name = Person #8
+2019-11-01 13:31:12 INFO  Reader:132 - Person #0 won't come to library
+2019-11-01 13:31:12 INFO  Reader:132 - Person #4 won't come to library
+2019-11-01 13:31:12 INFO  Reader:132 - Person #7 won't come to library
+2019-11-01 13:31:12 INFO  Reader:136 - Person #5 came to library
+2019-11-01 13:31:12 INFO  Reader:119 - Person #5 chose the book = Book #0
+2019-11-01 13:31:12 INFO  Book:93 - Person #5: Book #0 started reading...
+2019-11-01 13:31:12 INFO  Reader:136 - Person #3 came to library
+2019-11-01 13:31:12 INFO  Reader:119 - Person #3 chose the book = Book #3
+2019-11-01 13:31:12 INFO  Book:75 - Person #3: took Book #3 home.
+2019-11-01 13:31:12 INFO  Reader:136 - Person #2 came to library
+2019-11-01 13:31:12 INFO  Reader:119 - Person #2 chose the book = Book #2
+2019-11-01 13:31:12 INFO  Book:75 - Person #2: took Book #2 home.
+2019-11-01 13:31:12 INFO  Reader:136 - Person #6 came to library
+2019-11-01 13:31:12 INFO  Reader:185 - Person #6 left library
+2019-11-01 13:31:12 INFO  Reader:136 - Person #1 came to library
+2019-11-01 13:31:12 INFO  Reader:119 - Person #1 chose the book = Book #1
+2019-11-01 13:31:12 INFO  Book:93 - Person #1: Book #1 started reading...
+2019-11-01 13:31:12 INFO  Reader:119 - Person #5 chose the book = Book #1
+2019-11-01 13:31:12 INFO  Reader:119 - Person #3 chose the book = Book #0
+2019-11-01 13:31:12 INFO  Book:75 - Person #3: took Book #0 home.
+2019-11-01 13:31:12 INFO  Reader:136 - Person #8 came to library
+2019-11-01 13:31:12 INFO  Reader:119 - Person #2 chose the book = Book #4
+2019-11-01 13:31:12 INFO  Book:93 - Person #2: Book #4 started reading...
+2019-11-01 13:31:12 INFO  Reader:119 - Person #3 chose the book = Book #4
+2019-11-01 13:31:12 INFO  Book:75 - Person #3: took Book #4 home.
+2019-11-01 13:31:12 INFO  Reader:119 - Person #3 chose the book = Book #1
+2019-11-01 13:31:12 INFO  Reader:119 - Person #2 chose the book = Book #1
+2019-11-01 13:31:12 INFO  Book:75 - Person #2: took Book #1 home.
+2019-11-01 13:31:12 INFO  Reader:185 - Person #8 left library
+2019-11-01 13:31:13 INFO  Book:95 - Person #5: Book #0 finished reading.
+2019-11-01 13:31:14 INFO  Reader:185 - Person #2 left library
+2019-11-01 13:31:14 INFO  Main:32 - Application stopped
+2019-11-01 13:31:14 INFO  Book:95 - Person #2: Book #4 finished reading.
+2019-11-01 13:31:14 INFO  Reader:185 - Person #3 left library
+2019-11-01 13:31:14 INFO  Book:95 - Person #1: Book #1 finished reading.
+2019-11-01 13:31:14 INFO  Book:93 - Person #3: Book #1 started reading...
+2019-11-01 13:31:14 INFO  Reader:185 - Person #5 left library
+2019-11-01 13:31:14 INFO  Reader:185 - Person #1 left library
+2019-11-01 13:31:16 INFO  Book:95 - Person #3: Book #1 finished reading.
+2019-11-01 13:31:16 INFO  Book:93 - Person #5: Book #1 started reading...
+2019-11-01 13:31:17 INFO  Book:95 - Person #5: Book #1 finished reading.

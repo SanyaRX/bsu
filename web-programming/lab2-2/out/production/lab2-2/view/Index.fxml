@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane prefHeight="400.0" prefWidth="680.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.IndexController">
+   <children>
+      <Button layoutX="8.0" layoutY="39.0" mnemonicParsing="false" onAction="#handleSortButton" text="Sort Tours" />
+      <ComboBox fx:id="sortingFields" layoutX="105.0" layoutY="39.0" prefHeight="25.0" prefWidth="164.0" />
+      <TextArea fx:id="outputTextArea" layoutX="287.0" layoutY="12.0" prefHeight="369.0" prefWidth="380.0" />
+      <Button layoutX="5.0" layoutY="93.0" mnemonicParsing="false" onAction="#handleRemove" text="Remove by ind" />
+      <TextField fx:id="removeTextField" layoutX="138.0" layoutY="93.0" prefHeight="25.0" prefWidth="132.0" promptText="enter index" />
+      <Button layoutX="9.0" layoutY="197.0" mnemonicParsing="false" onAction="#handleFilterByPrice" text="Filter by price" />
+      <TextField fx:id="priceFilterTextField" layoutX="138.0" layoutY="197.0" prefHeight="25.0" prefWidth="56.0" promptText="price" />
+      <Button layoutX="94.0" layoutY="281.0" mnemonicParsing="false" onAction="#handleAddingNewVoucher" prefHeight="42.0" prefWidth="88.0" text="Add new" />
+      <Button layoutX="-1.0" layoutY="143.0" mnemonicParsing="false" onAction="#handleFilterByDuration" text="Filter by duration" />
+      <ComboBox fx:id="durationFields" layoutX="139.0" layoutY="143.0" prefHeight="25.0" prefWidth="140.0" />
+   </children>
+</Pane>
