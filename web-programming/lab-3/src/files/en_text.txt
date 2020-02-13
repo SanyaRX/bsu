@@ -1,0 +1,9 @@
+Here is an example of code.
+This code prints Hello, world! string to console:
+<code>
+public void func()
+{
+    System.out.println(\"Hello, world\");
+}
+<code>
+Hello, world!

@@ -1,0 +1,27 @@
+2019-12-08 12:09:38 INFO  Server:18 - Server started
+2019-12-08 12:13:10 INFO  Server:22 - Server started
+2019-12-08 12:15:42 INFO  Server:22 - Server started
+2019-12-08 12:15:47 INFO  Client:22 - Client started working
+2019-12-08 12:15:48 INFO  Client:35 - error unmarshalling return; nested exception is: 
+	java.io.WriteAbortedException: writing aborted; java.io.NotSerializableException: model.Vouchers.Tour
+2019-12-08 12:17:22 INFO  Server:22 - Server started
+2019-12-08 12:17:25 INFO  Client:22 - Client started working
+2019-12-08 12:17:52 INFO  Server:22 - Server started
+2019-12-08 12:17:54 INFO  Client:22 - Client started working
+2019-12-08 12:35:42 INFO  Server:22 - Server started
+2019-12-08 12:35:44 INFO  Client:22 - Client started working
+2019-12-08 12:37:54 INFO  Server:22 - Server started
+2019-12-08 12:37:57 INFO  Client:22 - Client started working
+2019-12-08 12:38:40 INFO  Server:22 - Server started
+2019-12-08 12:38:42 INFO  Client:22 - Client started working
+2019-12-08 12:55:55 INFO  Server:22 - Server started
+2019-12-08 12:55:57 INFO  Client:26 - Client started working
+2019-12-08 12:56:00 INFO  Client:26 - Client started working
+2019-12-08 12:56:02 INFO  Client:26 - Client started working
+2019-12-09 11:45:45 INFO  Server:22 - Server started
+2019-12-09 11:45:47 INFO  Client:26 - Client started working
+2019-12-09 11:45:50 INFO  Client:26 - Client started working
+2019-12-09 11:48:24 INFO  Server:22 - Server started
+2019-12-09 11:48:26 INFO  Client:26 - Client started working
+2019-12-09 11:48:28 INFO  Client:26 - Client started working
+2019-12-09 11:48:30 INFO  Client:26 - Client started working

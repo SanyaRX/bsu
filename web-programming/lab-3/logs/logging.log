@@ -1,0 +1,82 @@
+2019-10-21 15:38:16 INFO  TextController:40 - Текст был загружен
+2019-10-21 15:38:16 INFO  Main:29 - Текст был загружен
+2019-10-21 15:38:16 INFO  Main:33 - Разбитие текста...
+2019-10-21 15:38:16 INFO  Main:36 - Текст был разбит
+2019-10-21 15:38:16 INFO  Main:38 - Сортировка текста...
+2019-10-21 15:38:16 INFO  TextController:45 - Сортировка текста...
+2019-10-21 15:38:16 INFO  TextController:59 - Текст был отсортирован
+2019-10-21 15:38:16 INFO  Main:40 - Текст был отсортирован
+2019-10-21 15:38:16 INFO  Main:44 - Обработка слов
+2019-10-21 15:38:16 INFO  TextController:64 - Обработка слов
+2019-10-28 14:35:57 INFO  TextController:40 - Текст был загружен
+2019-10-28 14:35:57 INFO  Main:29 - Текст был загружен
+2019-10-28 14:35:57 INFO  Main:33 - Разбитие текста...
+2019-10-28 14:35:58 INFO  Main:36 - Текст был разбит
+2019-10-28 14:35:58 INFO  Main:38 - Сортировка текста...
+2019-10-28 14:35:58 INFO  TextController:45 - Сортировка текста...
+2019-10-28 14:35:58 INFO  TextController:59 - Текст был отсортирован
+2019-10-28 14:35:58 INFO  Main:40 - Текст был отсортирован
+2019-10-28 14:35:58 INFO  Main:44 - Обработка слов
+2019-10-28 14:35:58 INFO  TextController:64 - Обработка слов
+2019-10-28 14:41:59 INFO  TextController:40 - Текст был загружен
+2019-10-28 14:41:59 INFO  Main:29 - Текст был загружен
+2019-10-28 14:41:59 INFO  Main:33 - Разбитие текста...
+2019-10-28 14:41:59 INFO  Main:36 - Текст был разбит
+2019-10-28 14:41:59 INFO  Main:38 - Сортировка текста...
+2019-10-28 14:41:59 INFO  TextController:45 - Сортировка текста...
+2019-10-28 14:41:59 INFO  TextController:59 - Текст был отсортирован
+2019-10-28 14:41:59 INFO  Main:40 - Текст был отсортирован
+2019-10-28 14:41:59 INFO  Main:44 - Обработка слов
+2019-10-28 14:41:59 INFO  TextController:64 - Обработка слов
+2019-10-28 14:47:23 INFO  TextController:40 - Текст был загружен
+2019-10-28 14:47:23 INFO  Main:29 - Текст был загружен
+2019-10-28 14:47:23 INFO  Main:33 - Разбитие текста...
+2019-10-28 14:47:23 INFO  Main:36 - Текст был разбит
+2019-10-28 14:47:23 INFO  Main:38 - Сортировка текста...
+2019-10-28 14:47:23 INFO  TextController:45 - Сортировка текста...
+2019-10-28 14:47:23 INFO  TextController:59 - Текст был отсортирован
+2019-10-28 14:47:23 INFO  Main:40 - Текст был отсортирован
+2019-10-28 14:47:23 INFO  Main:44 - Обработка слов
+2019-10-28 14:47:23 INFO  TextController:64 - Обработка слов
+2019-10-28 14:54:12 ERROR Main:25 - Error while loading file, Loading error
+Model.exceptions.FileLoadException: Error while loading file, Loading error
+	at Controller.TextController.loadText(TextController.java:38)
+	at Main.main(Main.java:23)
+Caused by: java.nio.file.NoSuchFileException: src\files\hru_text.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:230)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at Controller.TextController.loadText(TextController.java:35)
+	... 1 more
+2019-10-28 14:54:12 INFO  Main:29 - Текст был загружен
+2019-10-28 14:54:12 INFO  Main:33 - Разбитие текста...
+2019-10-28 14:54:21 ERROR Main:25 - Error while loading file, Loading error
+Model.exceptions.FileLoadException: Error while loading file, Loading error
+	at Controller.TextController.loadText(TextController.java:38)
+	at Main.main(Main.java:23)
+Caused by: java.nio.file.NoSuchFileException: src\files\hru_text.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:230)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at Controller.TextController.loadText(TextController.java:35)
+	... 1 more
+2019-10-28 14:54:21 INFO  Main:28 - Текст был загружен
+2019-10-28 14:54:21 INFO  Main:32 - Разбитие текста...
+2019-10-28 14:54:53 INFO  TextController:40 - Текст был загружен
+2019-10-28 14:54:53 INFO  Main:29 - Текст был загружен
+2019-10-28 14:54:53 INFO  Main:33 - Разбитие текста...
+2019-10-28 14:54:53 INFO  Main:36 - Текст был разбит
+2019-10-28 14:54:53 INFO  Main:38 - Сортировка текста...
+2019-10-28 14:54:53 INFO  TextController:45 - Сортировка текста...
+2019-10-28 14:54:54 INFO  TextController:59 - Текст был отсортирован
+2019-10-28 14:54:54 INFO  Main:40 - Текст был отсортирован
+2019-10-28 14:54:54 INFO  Main:44 - Обработка слов
+2019-10-28 14:54:54 INFO  TextController:64 - Обработка слов

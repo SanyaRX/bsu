@@ -1,0 +1,111 @@
+<xsd:schema xmlns:xsd = "http://www.w3.org/2001/XMLSchema"
+            targetNamespace="http://www.bsu.by"
+            xmlns="http://www.bsu.by"
+            version = "1.0"
+            elementFormDefault="qualified">
+
+    <xsd:simpleType name = "Duration">
+        <xsd:annotation>
+            <xsd:documentation>Travel duration.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:restriction base = "xsd:string">
+            <xsd:enumeration value = "ONE_WEEK"/>
+            <xsd:enumeration value = "TWO_WEEKS"/>
+            <xsd:enumeration value = "THREE_WEEKS"/>
+            <xsd:enumeration value = "ONE_MONTH"/>
+            <xsd:enumeration value = "TWO_MONTHS"/>
+            <xsd:enumeration value = "THREE_MONTHS"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name = "NutritionType">
+        <xsd:annotation>
+            <xsd:documentation>Travel's nutrition.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:restriction base = "xsd:string">
+            <xsd:enumeration value = "WITHOUT"/>
+            <xsd:enumeration value = "ONE_TIME"/>
+            <xsd:enumeration value = "TWO_TIMES"/>
+            <xsd:enumeration value = "THREE_TIMES"/>
+            <xsd:enumeration value = "FOUR_TIMES"/>
+            <xsd:enumeration value = "FIVE_TIMES"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+    <xsd:simpleType name = "VehicleType">
+        <xsd:annotation>
+            <xsd:documentation>Voucher's vehicle type.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:restriction base = "xsd:string">
+            <xsd:enumeration value = "CAR"/>
+            <xsd:enumeration value = "TRAIN"/>
+            <xsd:enumeration value = "BUS"/>
+            <xsd:enumeration value = "PLAIN"/>
+            <xsd:enumeration value = "LINEAR"/>
+        </xsd:restriction>
+    </xsd:simpleType>
+
+
+    <xsd:complexType name = "TravelVoucher" abstract="true">
+        <xsd:sequence>
+            <xsd:element name="vehicleType" type="VehicleType"/>
+            <xsd:element name="duration" type="Duration"/>
+            <xsd:element name="nutritionType" type="NutritionType"/>
+            <xsd:element name="price" type="xsd:int"/>
+        </xsd:sequence>
+    </xsd:complexType>
+
+    <xsd:complexType name="Cruise">
+        <xsd:complexContent>
+            <xsd:extension base="TravelVoucher">
+                <xsd:sequence>
+                    <xsd:element name="cabin" type="xsd:string"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType>
+
+    <xsd:complexType name="Medication">
+        <xsd:complexContent>
+            <xsd:extension base="TravelVoucher">
+                <xsd:sequence>
+                    <xsd:element name="hospital" type="xsd:string"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType>
+
+    <xsd:complexType name="Tour">
+        <xsd:complexContent>
+            <xsd:extension base="TravelVoucher">
+                <xsd:sequence>
+                    <xsd:element name="placesToVisit" type="xsd:string"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType>
+
+    <xsd:complexType name="Travel">
+        <xsd:complexContent>
+            <xsd:extension base="TravelVoucher">
+                <xsd:sequence>
+                    <xsd:element name="cityToTravel" type="xsd:string"/>
+                </xsd:sequence>
+            </xsd:extension>
+        </xsd:complexContent>
+    </xsd:complexType>
+
+    <xsd:element name="VoucherList">
+        <xsd:complexType mixed="true">
+            <xsd:sequence>
+                <xsd:choice maxOccurs="unbounded" minOccurs="0">
+                    <xsd:element name="travel" type="Travel"/>
+                    <xsd:element name="tour" type="Tour"/>
+                    <xsd:element name="cruise" type="Cruise"/>
+                    <xsd:element name="medication" type="Medication"/>
+                </xsd:choice>
+            </xsd:sequence>
+        </xsd:complexType>
+    </xsd:element>
+
+</xsd:schema>

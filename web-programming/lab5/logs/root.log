@@ -1,0 +1,32 @@
+2019-11-11 12:18:02 INFO  Server:31 - Server started working...
+2019-11-11 12:18:02 INFO  ServerSender:39 - ServerSender started working
+2019-11-11 12:18:04 INFO  Client:58 - Client Client 0 started working
+2019-11-11 12:18:06 INFO  Client:58 - Client Client 1 started working
+2019-11-11 12:18:08 INFO  Client:58 - Client Client 2 started working
+2019-11-11 12:18:10 INFO  Client:58 - Client Client 0 started working
+2019-11-11 12:18:10 INFO  Client:74 - Client: Client 0 received message: Client with name Client 0 is already exists
+2019-11-11 12:18:10 INFO  Client:84 - Client Client 0 finished working
+2019-11-11 12:18:13 INFO  ServerSender:48 - Sent message
+2019-11-11 12:18:13 INFO  ServerSender:48 - Sent message
+2019-11-11 12:18:13 INFO  Client:74 - Client: Client 0 received message: You are odd client. Deadline time: 2019-11-11T09:18:12.965Z
+2019-11-11 12:18:13 INFO  Client:74 - Client: Client 2 received message: You are odd client. Deadline time: 2019-11-11T09:18:12.965Z
+2019-11-11 12:18:13 INFO  ServerSender:56 - ServerSender finished working
+2019-11-11 12:18:13 INFO  Client:84 - Client Client 0 finished working
+2019-11-11 12:18:13 INFO  Client:84 - Client Client 2 finished working
+2019-11-11 12:18:13 INFO  Client:84 - Client Client 1 finished working
+2019-11-11 12:25:52 INFO  Server:31 - Server started working...
+2019-11-11 12:25:52 INFO  ServerSender:39 - ServerSender started working
+2019-11-11 12:25:54 INFO  Client:58 - Client Client 1 started working
+2019-11-11 12:25:56 INFO  Client:58 - Client Client 2 started working
+2019-11-11 12:25:58 INFO  Client:58 - Client Client 0 started working
+2019-11-11 12:26:00 INFO  Client:58 - Client Client 1 started working
+2019-11-11 12:26:00 INFO  Client:74 - Client: Client 1 received message: Client with name Client 1 is already exists
+2019-11-11 12:26:00 INFO  Client:84 - Client Client 1 finished working
+2019-11-11 12:26:02 INFO  ServerSender:48 - Sent message
+2019-11-11 12:26:02 INFO  Client:74 - Client: Client 1 received message: You are odd client. Deadline time: 2019-11-11T09:26:02.209Z
+2019-11-11 12:26:02 INFO  ServerSender:48 - Sent message
+2019-11-11 12:26:02 INFO  ServerSender:56 - ServerSender finished working
+2019-11-11 12:26:02 INFO  Client:74 - Client: Client 0 received message: You are odd client. Deadline time: 2019-11-11T09:26:02.209Z
+2019-11-11 12:26:02 INFO  Client:84 - Client Client 1 finished working
+2019-11-11 12:26:02 INFO  Client:84 - Client Client 2 finished working
+2019-11-11 12:26:02 INFO  Client:84 - Client Client 0 finished working
