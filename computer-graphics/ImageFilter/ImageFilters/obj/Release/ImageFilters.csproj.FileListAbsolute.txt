@@ -1,0 +1,10 @@
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Release\ImageFilters.exe.config
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Release\ImageFilters.exe
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Release\ImageFilters.pdb
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Release\ImageFilters.csprojAssemblyReference.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Release\ImageFilters.Form1.resources
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Release\ImageFilters.Properties.Resources.resources
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Release\ImageFilters.csproj.GenerateResource.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Release\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Release\ImageFilters.exe
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Release\ImageFilters.pdb

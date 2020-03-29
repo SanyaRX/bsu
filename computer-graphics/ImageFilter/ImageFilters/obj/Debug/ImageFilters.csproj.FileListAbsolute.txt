@@ -1,0 +1,56 @@
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe.config
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\bin\Debug\ImageFilters.exe
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\bin\Debug\ImageFilters.pdb
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.Cache
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.exe
+c:\users\nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\Nikita\documents\visual studio 2017\Projects\ImageFilters\ImageFilters\obj\Debug\ImageFilters.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\ImageFilters.exe.config
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\ImageFilters.exe
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\ImageFilters.pdb
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.CoreCompileInputs.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.exe
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.pdb
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\MoreLinq.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\MoreLinq.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csprojAssemblyReference.cache
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.dll.config
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Imaging.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Math.Core.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Math.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Statistics.dll
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Imaging.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Math.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Math.Core.xml
+C:\Users\Islam\Documents\tmp\ImageFilter\ImageFilters\bin\Debug\Accord.Statistics.xml
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.dll.config
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\ImageFilters.exe.config
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\ImageFilters.exe
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\ImageFilters.pdb
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.dll
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Imaging.dll
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Math.Core.dll
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Math.dll
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Statistics.dll
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\MoreLinq.dll
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.xml
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Imaging.xml
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Math.xml
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Math.Core.xml
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\Accord.Statistics.xml
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\bin\Debug\MoreLinq.xml
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csprojAssemblyReference.cache
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.Form1.resources
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.Properties.Resources.resources
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.GenerateResource.cache
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.csproj.CopyComplete
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.exe
+D:\3-course\6-term\computer-graphics\Computer_graphics\KG3\ImageFilter\ImageFilters\obj\Debug\ImageFilters.pdb
